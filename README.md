@@ -8,6 +8,7 @@
 ### 🧠 Linguagens e Tecnologias
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++a-original.svg" alt="Java" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
