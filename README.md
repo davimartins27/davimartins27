@@ -1,7 +1,7 @@
 <h1 align="center">Davi Martins</h1>
 
-  👋 Me chamo Davi Martins, tenho 18 anos e sou apaixonado por tecnologia.<br>
-  🎓 Estudo Engenharia de Software na PUC Minas.<br>
+  👋 Sou Davi Martins, 18 anos, estudante de Engenharia de Software na PUC Minas.<br>
+  💻 Curto trabalhar com código e aprender coisas novas no mundo da tecnologia.
 
 ---
 
