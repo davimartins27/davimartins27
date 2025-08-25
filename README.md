@@ -1,4 +1,4 @@
-<h1 align="center">Davi Martins</h1>
+<h1 align="center">Davi Martins de Almeida</h1>
 
   👋 Sou Davi Martins, 18 anos, estudante de Engenharia de Software na PUC Minas.<br>
   💻 Curto trabalhar com código e aprender coisas novas no mundo da tecnologia.
